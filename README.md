@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahbub Alam Rahad</h1>
+<h1 align="center">Hi 🫣, I'm Mahbub Alam Rahad</h1>
 <h3 align="center">A passionate junior web developer and cyber security specialist from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-alam-rahad&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-alam-rahad" /> </p>
